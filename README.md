@@ -1,4 +1,5 @@
 # Coocucachew
+![Home](https://s1.ax1x.com/2020/07/30/anCCRI.png)
 
 Coocucachew is an e-commerce website that sells Cookies, Cupcakes, Cake-pops and Chocolates.
 
@@ -18,10 +19,6 @@ On the back end, Express was used to handle server calls, and PostgreSQL to stor
 
 ## Site Walk-through
 
-![Home](https://media.giphy.com/media/WRv8Ug3JPhqp1KxSzB/giphy.gif)
-
-
-<br/>
 
 <br/>
 
