@@ -14,3 +14,19 @@ On the back end, Express was used to handle server calls, and PostgreSQL to stor
 * Giselle Zatonyl - https://www.linkedin.com/in/gisellezatonyl/
 * Gisele (Yunshu) Xiao - https://www.linkedin.com/in/yunshu-gisele-hsiao-99355518b/
 * Michelle Broomes - https://www.linkedin.com/in/michelle-broomes/
+
+## Site Walk-through
+
+![HomePage](https://media.giphy.com/media/LkfKo58EK85etCkHwN/giphy.gif)
+
+<br/>
+
+![AddToCart](https://media.giphy.com/media/f5SjUFX7zZQmJzSD1e/giphy.gif)
+
+<br/>
+
+![ShoppingCart](https://media.giphy.com/media/elhuRvJ7cmEHU7gwfn/giphy.gif)
+
+<br/>
+
+![Checkout](https://media.giphy.com/media/cO8hxz8YcMjE1B81Yq/giphy.gif)
