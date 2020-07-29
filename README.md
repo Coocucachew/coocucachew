@@ -18,7 +18,8 @@ On the back end, Express was used to handle server calls, and PostgreSQL to stor
 
 ## Site Walk-through
 
-![Home](https://giphy.com/gifs/QVyMwVBD28dpYYjuQd/html5)
+![Home](https://media.giphy.com/media/Xa3d8b3yl1x42c1Mnl/giphy.gif)
+
 
 <br/>
 
